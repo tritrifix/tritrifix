@@ -9,3 +9,4 @@
 - 💬  Ask me about secure systems, project management, and enterprise infrastructure creation.
 - 📫 How to reach me: You can contact me on Discord @tritrifix
 - ⚡ Fun fact: i'm nerd of IT
+- 🇫🇷 I am French and I speak English very poorly, thanks to AI.
